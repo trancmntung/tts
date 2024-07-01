@@ -1,0 +1,5 @@
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject.Logging.csproj.AssemblyReference.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject.Logging.AssemblyInfoInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject.Logging.AssemblyInfo.cs
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject.Logging.csproj.CoreCompileInputs.cache

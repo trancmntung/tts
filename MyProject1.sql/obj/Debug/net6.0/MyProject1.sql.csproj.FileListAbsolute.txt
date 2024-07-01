@@ -1,0 +1,14 @@
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\bin\Debug\net6.0\MyProject1.sql.exe
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\bin\Debug\net6.0\MyProject1.sql.deps.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\bin\Debug\net6.0\MyProject1.sql.runtimeconfig.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\bin\Debug\net6.0\MyProject1.sql.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\bin\Debug\net6.0\MyProject1.sql.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.AssemblyInfoInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.AssemblyInfo.cs
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.csproj.CoreCompileInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\refint\MyProject1.sql.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject1.sql.genruntimeconfig.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\ref\MyProject1.sql.dll

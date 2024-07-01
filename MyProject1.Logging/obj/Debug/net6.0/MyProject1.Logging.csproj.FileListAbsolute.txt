@@ -1,0 +1,14 @@
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\bin\Debug\net6.0\MyProject1.Logging.exe
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\bin\Debug\net6.0\MyProject1.Logging.deps.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\bin\Debug\net6.0\MyProject1.Logging.runtimeconfig.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\bin\Debug\net6.0\MyProject1.Logging.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\bin\Debug\net6.0\MyProject1.Logging.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.AssemblyInfoInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.AssemblyInfo.cs
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.csproj.CoreCompileInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\refint\MyProject1.Logging.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\MyProject1.Logging.genruntimeconfig.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Logging\obj\Debug\net6.0\ref\MyProject1.Logging.dll

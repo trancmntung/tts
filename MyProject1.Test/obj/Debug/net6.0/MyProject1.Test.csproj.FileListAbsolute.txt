@@ -1,0 +1,14 @@
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\bin\Debug\net6.0\MyProject1.Test.exe
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\bin\Debug\net6.0\MyProject1.Test.deps.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\bin\Debug\net6.0\MyProject1.Test.runtimeconfig.json
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\bin\Debug\net6.0\MyProject1.Test.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\bin\Debug\net6.0\MyProject1.Test.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.AssemblyInfoInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.AssemblyInfo.cs
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.csproj.CoreCompileInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\refint\MyProject1.Test.dll
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.pdb
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\MyProject1.Test.genruntimeconfig.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.Test\obj\Debug\net6.0\ref\MyProject1.Test.dll

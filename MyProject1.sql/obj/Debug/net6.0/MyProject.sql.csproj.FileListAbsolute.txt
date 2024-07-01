@@ -1,0 +1,4 @@
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject.sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject.sql.AssemblyInfoInputs.cache
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject.sql.AssemblyInfo.cs
+C:\Users\tungt\source\repos\MyProject\MyProject1.sql\obj\Debug\net6.0\MyProject.sql.csproj.CoreCompileInputs.cache
